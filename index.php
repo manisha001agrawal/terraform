@@ -1,4 +1,3 @@
-<? php
-  
- print "hii manisha"
-  ?>
+<?php
+echo "Hello World!";
+?>
